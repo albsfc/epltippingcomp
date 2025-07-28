@@ -1,0 +1,6 @@
+{
+  "name": "EPL Tipping Competition",
+  "description": "A web application for an English Premier League tipping competition among friends. Users can input their predictions for each match, enter the actual results, and see a leaderboard based on a custom scoring system.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
